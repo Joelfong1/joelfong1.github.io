@@ -16,10 +16,6 @@ body {
 	background-color: #112133;
 }
 
-#about {
-	display: block;
-}
-
 .center {
     display: block;
     width: 175px;
@@ -30,4 +26,11 @@ body {
     display: block;
     width: 100%;
     padding-top: 175px;
+    color: white; 
+    text-align: center;
+}
+
+#about {
+    display: block;
+    padding-bottom: 50px;
 }
